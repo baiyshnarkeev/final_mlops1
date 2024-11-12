@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/narke/ml_ops_final/mlruns/0/97b42e1079e34f6b9618a2d8d3bed170/artifacts
+end_time: 1731435203450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97b42e1079e34f6b9618a2d8d3bed170
+run_name: angry-mole-869
+run_uuid: 97b42e1079e34f6b9618a2d8d3bed170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731435203379
+status: 3
+tags: []
+user_id: narke

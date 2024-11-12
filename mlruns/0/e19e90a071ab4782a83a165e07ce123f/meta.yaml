@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/narke/ml_ops_final/mlruns/0/e19e90a071ab4782a83a165e07ce123f/artifacts
+end_time: 1731435132959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e19e90a071ab4782a83a165e07ce123f
+run_name: gentle-mink-691
+run_uuid: e19e90a071ab4782a83a165e07ce123f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731435132882
+status: 3
+tags: []
+user_id: narke
